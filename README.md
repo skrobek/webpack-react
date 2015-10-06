@@ -8,6 +8,10 @@
 * run `npm install`
 * run `npm start`
 
+## Run prod mode:
+* use `expressjs` (or any other quick node server) and serve static files from `build`
+* run in browser `index.html` from `build` folder
+
 ## Remarks
 * Bootstrap .js loading questions:
   * Load externally via CDN ?
