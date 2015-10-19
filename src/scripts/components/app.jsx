@@ -7,11 +7,7 @@ class App extends React.Component {
   render() {
     return(
       <div className="react-app">
-        <Navbar />
-        <div className="container-fluid">
-          <Actions />
-          <VideosList />
-        </div>
+        Test
       </div>
     );
   }

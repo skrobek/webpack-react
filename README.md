@@ -5,10 +5,10 @@ This is a starter to React.jsbased applications. Build system is working on the 
 ## What's included
 * [Webpack](https://webpack.github.io/)
 * [Webpack Dev Server](https://webpack.github.io/docs/webpack-dev-server.html)
-* [React Hot Loader](https://github.com/gaearon/react-hot-loader)
 * [Babel.js](https://babeljs.io/)
 * [React](https://facebook.github.io/react/)
 * [React Router](https://github.com/rackt/react-router)
+* [React Hot Loader](https://github.com/gaearon/react-hot-loader)
 * [Flux](https://facebook.github.io/flux/)
 * [SASS](http://sass-lang.com/)
 
